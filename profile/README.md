@@ -2,9 +2,8 @@
 
 ![flowing-code-logo](https://github.com/FlowingCode/.github/assets/30666649/f1adf7fc-8cea-4f19-9193-010b267efcc1)
 
-##### [Website](https://www.flowingcode.com) · [Community](#community)
+#### [Website](https://www.flowingcode.com) · [Community](#community)
 
-  <br>
 </div>
 
 ## Vaadin Add-ons
@@ -327,10 +326,6 @@
 <br>
 
 ## Community
-
-<!---[Blog](https://www.flowingcode.com/en/blog/) · [Twitter](https://twitter.com/flowingcode) · [LinkedIn](https://www.linkedin.com/company/24971175) · [Instagram](https://www.instagram.com/flowingcode/) · [YouTube](https://youtube.com/@flowingcode) 
--->
-
 <!--- Community badges from https://github.com/Ileriayo/markdown-badges -->
 
 [![Blog](https://img.shields.io/badge/Blog-%2312100E.svg?style=for-the-badge)](https://www.flowingcode.com/en/blog/)
