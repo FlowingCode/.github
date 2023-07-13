@@ -342,7 +342,7 @@ Report issues, create pull requests, ask questions, all contributions are welcom
 
 ### Code contributions 
 
-As first step, please refer to our [Development Conventions](https://github.com/FlowingCode/DevelopmentConventions) page to find information about [Conventional Commits](https://github.com/FlowingCode/DevelopmentConventions/blob/main/conventional-commits.md) & [Code Style](https://github.com/FlowingCode/DevelopmentConventions/blob/main/code-style.md) requeriments.
+As first step, please refer to our [Development Conventions](https://github.com/FlowingCode/DevelopmentConventions) page to find information about [Conventional Commits](https://github.com/FlowingCode/DevelopmentConventions/blob/main/conventional-commits.md) & [Code Style](https://github.com/FlowingCode/DevelopmentConventions/blob/main/code-style.md) requirements.
 
 Then, follow these steps for creating a contibution:
 
