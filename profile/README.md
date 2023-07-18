@@ -251,6 +251,32 @@
 
 <br>
 
+## Libraries
+
+<table width="100%">
+
+<tr>
+  <td width="100%">
+
+  [**Backend Core**](https://github.com/FlowingCode/backend-core)  
+  Collection of common interfaces and implementations designed to facilitate the application of clean architectural principles in enterprise software development. 
+
+  </td>
+</tr>
+
+<tr>
+  <td width="100%">
+
+  [**RPC for Vaadin TestBench**](https://github.com/FlowingCode/testbench-rpc)  
+  Provides support for [calling Server-Side methods](https://vaadin.com/docs/latest/create-ui/element-api/client-server-rpc/#calling-server-side-methods-from-the-client) from [Vaadin TestBench](https://vaadin.com/docs/latest/testing/end-to-end) integration tests.
+  
+  </td>
+</tr>
+
+</table>
+
+<br>
+
 ## Tutorials & Examples
 
 <table width="100%">
