@@ -22,6 +22,19 @@
 
   <td width="50%">
 
+  [**Extended Login**](https://github.com/FlowingCode/ExtendedLoginAddon)  
+  Extends the Vaadin Login component adding new features.
+  
+  [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/extended-login-add-on)](https://vaadin.com/directory/component/extended-login-add-on)
+  [![Rating Vaadin Directory](https://img.shields.io/vaadin-directory/stars/extended-login-add-on)](https://vaadin.com/directory/component/extended-login-add-on)
+  [![Build Status](https://jenkins.flowingcode.com/job/ExtendedLogin-addon/badge/icon)](https://jenkins.flowingcode.com/job/ExtendedLogin-addon)
+  </td>
+  
+</tr>
+
+<tr>
+  <td width="50%">
+
   [**Font Awesome Iconset**](https://github.com/FlowingCode/FontAwesomeIronIconset)  
   Iconset based in FontAwesome
   
@@ -30,8 +43,7 @@
   [![Build Status](https://jenkins.flowingcode.com/job/FontAwesomeIronIconset-14-addon/badge/icon)](https://jenkins.flowingcode.com/job/FontAwesomeIronIconset-14-addon)
   [![npm version](https://img.shields.io/npm/v/%40flowingcode%2Ffont-awesome-iron-iconset)](https://www.npmjs.com/package/@flowingcode/font-awesome-iron-iconset)
   </td>
-</tr>
-<tr>
+  
   <td width="50%">
 
   [**Google Maps**](https://github.com/FlowingCode/GoogleMapsAddon)  
@@ -43,7 +55,10 @@
   [![npm version](https://img.shields.io/npm/v/%40flowingcode%2Fgoogle-map)](https://www.npmjs.com/package/@flowingcode/google-map)
   
   </td>
+ 
+</tr>
 
+<tr>
   <td width="50%">
 
   [**Grid Exporter**](https://github.com/FlowingCode/GridExporterAddon)  
@@ -53,9 +68,7 @@
   [![Rating Vaadin Directory](https://img.shields.io/vaadin-directory/star/grid-exporter-add-on)](https://vaadin.com/directory/component/grid-exporter-add-on)
   [![Build Status](https://jenkins.flowingcode.com/job/GridExporter-addon/badge/icon)](https://jenkins.flowingcode.com/job/GridExporter-addon)  
   </td>
-</tr>
-
-<tr>
+  
   <td width="50%">
 
   [**Grid Helpers**](https://github.com/FlowingCode/GridHelpers)  
@@ -65,7 +78,10 @@
   [![Rating Vaadin Directory](https://img.shields.io/vaadin-directory/star/grid-helpers-add-on)](https://vaadin.com/directory/component/grid-helpers-add-on)
   [![Build Status](https://jenkins.flowingcode.com/job/GridHelpers-addon/badge/icon)](https://jenkins.flowingcode.com/job/GridHelpers-addon)  
   </td>
+  
+</tr>
 
+<tr>
   <td width="50%">
 
   [**OrgChart**](https://github.com/FlowingCode/OrgChartAddon)  
@@ -75,9 +91,7 @@
   [![Rating Vaadin Directory](https://img.shields.io/vaadin-directory/star/orgchart-add-on)](https://vaadin.com/directory/component/orgchart-add-on)
   [![Build Status](https://jenkins.flowingcode.com/job/OrgChart-14-addon/badge/icon)](https://jenkins.flowingcode.com/job/OrgChart-14-addon/)
   </td>
-</tr>
-
-<tr>
+  
   <td width="50%">
 
   [**TwinColGrid**](https://github.com/FlowingCode/TwinColGridAddon)  
@@ -87,7 +101,10 @@
   [![Rating Vaadin Directory](https://img.shields.io/vaadin-directory/star/twincolgrid-add-on)](https://vaadin.com/directory/component/twincolgrid-add-on)
   [![Build Status](https://jenkins.flowingcode.com/job/TwinColGrid-14-addon/badge/icon)](https://jenkins.flowingcode.com/job/TwinColGrid-14-addon)  
   </td>
+ 
+</tr>
 
+<tr>
   <td width="50%">
 
   [**Year/Month Calendar**](https://github.com/FlowingCode/YearMonthCalendarAddon)  
@@ -97,9 +114,7 @@
   [![Rating Vaadin Directory](https://img.shields.io/vaadin-directory/star/year-month-calendar-add-on)](https://vaadin.com/directory/component/year-month-calendar-add-on)
   [![Build Status](https://jenkins.flowingcode.com/job/YearMonthCalendar-addon/badge/icon)](https://jenkins.flowingcode.com/job/YearMonthCalendar-addon)
   </td>
-</tr>
-
-<tr>
+  
   <td width="50%">
 
   [**AppLayout**](https://github.com/FlowingCode/AppLayoutAddon)  
@@ -110,7 +125,10 @@
   [![Build Status](https://jenkins.flowingcode.com/job/AppLayout-5.x-addon/badge/icon)](https://jenkins.flowingcode.com/job/AppLayout-5.x-addon)  
   [![npm version](https://img.shields.io/npm/v/%40flowingcode%2Ffc-applayout)](https://www.npmjs.com/package/@flowingcode/fc-applayout)
   </td>
+  
+</tr>
 
+<tr>
   <td width="50%">
 
   [**Carousel**](https://github.com/FlowingCode/CarouselAddon)  
@@ -120,9 +138,7 @@
   [![Rating Vaadin Directory](https://img.shields.io/vaadin-directory/star/carousel-addon)](https://vaadin.com/directory/component/carousel-addon)
   [![Build Status](https://jenkins.flowingcode.com/buildStatus/icon?job=Carousel-addon)](https://jenkins.flowingcode.com/job/Carousel-addon)
   </td>
-</tr>
-
-<tr>
+  
   <td width="50%">
 
   [**Simple Timer**](https://github.com/FlowingCode/SimpleTimerAddon)  
@@ -132,7 +148,10 @@
   [![Rating Vaadin Directory](https://img.shields.io/vaadin-directory/star/simple-timer-addon)](https://vaadin.com/directory/component/simple-timer-addon)
   [![Build Status](https://jenkins.flowingcode.com/job/SimpleTimer-14-addon/badge/icon)](https://jenkins.flowingcode.com/job/simple-timer-addon) 
   </td>
+  
+</tr>
 
+<tr>
   <td width="50%">
 
   [**XTerm**](https://github.com/FlowingCode/XTermConsoleAddon)  
@@ -142,9 +161,7 @@
   [![Rating Vaadin Directory](https://img.shields.io/vaadin-directory/star/xterm-console-addon)](https://vaadin.com/directory/component/xterm-console-addon)
   [![Build Status](https://jenkins.flowingcode.com/job/XTerm-2-addon/badge/icon)](https://jenkins.flowingcode.com/job/XTerm-2-addon)
   </td>
-</tr>
-
-<tr>
+  
   <td width="50%">
 
   [**WCStories**](https://github.com/FlowingCode/WCStoriesAddon)  
@@ -154,7 +171,10 @@
   [![Rating Vaadin Directory](https://img.shields.io/vaadin-directory/star/wc-stories-addon)](https://vaadin.com/directory/component/wc-stories-addon)
   [![Build Status](https://jenkins.flowingcode.com/job/WCStories-23-addon/badge/icon)](https://jenkins.flowingcode.com/job/WCStories-23-addon)  
   </td>
+ 
+</tr>
 
+<tr>
   <td width="50%">
 
   [**Whatsapp Button**](https://github.com/FlowingCode/WhatsappButton)  
@@ -165,9 +185,7 @@
   [![Build Status](https://jenkins.flowingcode.com/job/WhatsappButton-addon/badge/icon)](https://jenkins.flowingcode.com/job/WhatsappButton-addon)
   [![npm version](https://img.shields.io/npm/v/%40flowingcode%2Ffc-whatsapp-button)](https://www.npmjs.com/package/@flowingcode/fc-whatsapp-button)
   </td>
-</tr>
-
-<tr>
+  
   <td width="50%">
 
   [**Chip Field**](https://github.com/FlowingCode/ChipFieldAddon)  
@@ -177,7 +195,10 @@
   [![Rating Vaadin Directory](https://img.shields.io/vaadin-directory/star/chipfield-addon)](https://vaadin.com/directory/component/chipfield-addon)
   [![Build Status](https://jenkins.flowingcode.com/buildStatus/icon?job=ChipField-14-addon)](https://jenkins.flowingcode.com/job/ChipField-14-addon/)
   </td>
+ 
+</tr>
 
+<tr>
   <td width="50%">
 
   [**Filterable Layout**](https://github.com/FlowingCode/FilterableLayoutAddon)  
@@ -187,9 +208,7 @@
   [![Rating Vaadin Directory](https://img.shields.io/vaadin-directory/star/filterable-layout-add-on)](https://vaadin.com/directory/component/filterable-layout-add-on)
   [![Build Status](https://jenkins.flowingcode.com/buildStatus/icon?job=FilterableLayout-14-addon)](https://jenkins.flowingcode.com/job/FilterableLayout-14-addon)   
   </td>
-</tr>
-
-<tr>
+  
   <td width="50%">
 
   [**Granite Alert**](https://github.com/FlowingCode/GraniteAlertAddon)  
@@ -199,7 +218,10 @@
   [![Rating Vaadin Directory](https://img.shields.io/vaadin-directory/star/granite-alert)](https://vaadin.com/directory/component/granite-alert)
   [![Build Status](https://jenkins.flowingcode.com/job/GraniteAlert-14-addon/badge/icon)](https://jenkins.flowingcode.com/job/GraniteAlert-14-addon)    
   </td>
+  
+</tr>
 
+<tr>
   <td width="50%">
 
   [**GitHub Buttons**](https://github.com/FlowingCode/GitHubButtons)  
@@ -210,9 +232,7 @@
   [![Build Status](https://jenkins.flowingcode.com/job/GithubButtons-addon/badge/icon)](https://jenkins.flowingcode.com/job/GithubButtons-addon)
   [![npm version](https://img.shields.io/npm/v/%40flowingcode%2Fwc-ngx-github-buttons)](https://www.npmjs.com/package/@flowingcode/wc-ngx-github-buttons)
   </td>
-</tr>
-
-<tr>
+  
   <td width="50%">
 
   [**Image Comparison Slider**](https://github.com/FlowingCode/ImageComparisonSliderAddon)  
@@ -222,7 +242,10 @@
   [![Rating Vaadin Directory](https://img.shields.io/vaadin-directory/star/image-comparison-slider-add-on)](https://vaadin.com/directory/component/image-comparison-slider-add-on)
   [![Build Status](https://jenkins.flowingcode.com/job/ImageComparisonSlider-addon/badge/icon)](https://jenkins.flowingcode.com/job/image-comparison-slider-addon)   
   </td>
+  
+</tr>
 
+<tr>
   <td width="50%">
 
   [**RSS Items**](https://github.com/FlowingCode/RssItemsAddon)  
@@ -232,9 +255,7 @@
   [![Rating Vaadin Directory](https://img.shields.io/vaadin-directory/star/rss-items)](https://vaadin.com/directory/component/rss-items)
   [![Build Status](https://jenkins.flowingcode.com/job/RssItems-14-addon/badge/icon)](https://jenkins.flowingcode.com/job/RssItems-14-addon)   
   </td>
-</tr>
-
-<tr>
+  
   <td width="50%">
 
   [**Vertical Menu**](https://github.com/FlowingCode/VerticalMenuAddon)  
