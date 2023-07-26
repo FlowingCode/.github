@@ -26,7 +26,7 @@
   Extends the Vaadin Login component adding new features.
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/extended-login-add-on)](https://vaadin.com/directory/component/extended-login-add-on)
-  [![Rating Vaadin Directory](https://img.shields.io/vaadin-directory/stars/extended-login-add-on)](https://vaadin.com/directory/component/extended-login-add-on)
+  [![Rating Vaadin Directory](https://img.shields.io/vaadin-directory/star/extended-login-add-on)](https://vaadin.com/directory/component/extended-login-add-on)
   [![Build Status](https://jenkins.flowingcode.com/job/ExtendedLogin-addon/badge/icon)](https://jenkins.flowingcode.com/job/ExtendedLogin-addon)
   </td>
   
