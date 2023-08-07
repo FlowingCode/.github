@@ -250,7 +250,7 @@
 <table width="100%">
 
 <tr>
-  <td width="100%">
+  <td width="33%">
 
   [**AppLayout + Hilla**](https://github.com/FlowingCode/AppLayoutHillaExample)  
   Example application on how to use our AppLayout Add-on with Hilla Framework.
@@ -258,10 +258,8 @@
   [![Static Badge](https://img.shields.io/badge/BLOG_POST-740098?style=flat-square&color=%23740098)](https://www.flowingcode.com/en/using-our-applayout-in-a-hilla-application/)
 
   </td>
-</tr>
-
-<tr>
-  <td width="100%">
+  
+  <td width="33%">
 
   [**Reactive Crypto**](https://www.flowingcode.com/en/display-realtime-crypto-prices-vaadin-spring/)  
   Demo application to display crypto currencies trades price in realtime using Vaadin Flow and Spring Reactive WebSockets API.
@@ -269,10 +267,8 @@
   [![Static Badge](https://img.shields.io/badge/BLOG_POST-740098?style=flat-square&color=%23740098)](https://www.flowingcode.com/en/display-realtime-crypto-prices-vaadin-spring/)
 
   </td>
-</tr>
-
-<tr>
-  <td width="100%">
+  
+  <td width="33%">
 
   [**Lazy, Filtered and Sorted Vaadin Grid**](https://github.com/FlowingCode/LazyFilteredSortedGrid)  
   Demo application on how to implement lazy loading, filtering and sorting in Vaadin Grid.
@@ -280,10 +276,11 @@
   [![Static Badge](https://img.shields.io/badge/BLOG_POST-740098?style=flat-square&color=%23740098)](https://www.flowingcode.com/en/lazy-filtered-and-sorted-vaadin-grid-using-external-data-source/)
 
   </td>
+  
 </tr>
 
 <tr>
-  <td width="100%">
+  <td width="33%">
 
   [**Lazy, Filtered and Sorted Vaadin TreeGrid**](https://github.com/FlowingCode/LazyFilteredSortedTreeGrid)  
   Demo application on how to implement lazy loading, filtering and sorting in Vaadin TreeGrid.
@@ -291,28 +288,25 @@
   [![Static Badge](https://img.shields.io/badge/BLOG_POST-740098?style=flat-square&color=%23740098)](https://www.flowingcode.com/en/vaadin-tree-grid-lazy-loading-filtering-sorting/)
 
   </td>
-</tr>
-
-<tr>
-  <td width="100%">
+  
+  <td width="33%">
 
   [**Vaadin Flow + JavaScript integration**](https://github.com/FlowingCode/JavascriptFlowTutorial)  
-  Tutorial on how to integrate a JavaScript library with Vaadin Flow to create an Add-on. 
+  Tutorial on how to integrate a JavaScript library with Vaadin Flow to create an Add-on component. 
   
   [![Static Badge](https://img.shields.io/badge/BLOG_POST-740098?style=flat-square&color=%23740098)](https://www.flowingcode.com/en/creating-a-vaadin-flow-server-side-api-for-a-javascript-component/)
 
   </td>
-</tr>
-
-<tr>
-  <td width="100%">
+  
+  <td width="33%">
 
   [**World Cup Stats**](https://github.com/FlowingCode/WorldcupStats)  
-  Demo application that displays statistical data from the Football World Cup 2018.
+  Demo application that displays statistical data from the Football World Cup 2018 using Vaadin Flow & Spring Framework.
   
   [![Static Badge](https://img.shields.io/badge/BLOG_POST-740098?style=flat-square&color=%23740098)](https://www.flowingcode.com/2018/07/vaadin-10-spring-demo-application-world.html)
 
   </td>
+  
 </tr>
 
 </table>
