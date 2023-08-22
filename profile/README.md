@@ -332,7 +332,7 @@ Report issues, create pull requests, ask questions, all contributions are welcom
 
 As first step, please refer to our [Development Conventions](https://github.com/FlowingCode/DevelopmentConventions) page to find information about [Conventional Commits](https://github.com/FlowingCode/DevelopmentConventions/blob/main/conventional-commits.md) & [Code Style](https://github.com/FlowingCode/DevelopmentConventions/blob/main/code-style.md) requirements.
 
-Then, follow these steps for creating a contibution:
+Then, follow these steps for creating a contribution:
 
 - Fork the project.
 - Create an issue to the project about the contribution (bug or feature) if there is no such issue about it already. Try to keep the scope minimal.
