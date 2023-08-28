@@ -110,7 +110,18 @@
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/carousel-addon)](https://vaadin.com/directory/component/carousel-addon)
   </td>
+
+  <td width="33%">
+
+  [**Granite Alert**](https://github.com/FlowingCode/GraniteAlertAddon)  
+  Vaadin Flow wrapper Granite Alert with themable support.
   
+  [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/granite-alert)](https://vaadin.com/directory/component/granite-alert)
+  </td>
+  
+</tr>
+
+<tr>
   <td width="33%">
 
   [**Simple Timer**](https://github.com/FlowingCode/SimpleTimerAddon)  
@@ -119,9 +130,6 @@
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/simple-timer-addon)](https://vaadin.com/directory/component/simple-timer-addon)
   </td>
   
-</tr>
-
-<tr>
   <td width="33%">
 
   [**XTerm**](https://github.com/FlowingCode/XTermConsoleAddon)  
@@ -136,8 +144,11 @@
   Vaadin Flow integration of [wc-stories](@gugadev/wc-stories) library.
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/wc-stories-addon)](https://vaadin.com/directory/component/wc-stories-addon)
-  </td>
-    <td width="33%">
+  </td> 
+</tr>
+
+<tr>
+  <td width="33%">
 
   [**Whatsapp Button**](https://github.com/FlowingCode/WhatsappButton)  
   A simple button component to start Whatsapp conversations easily.
@@ -145,7 +156,7 @@
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/whatsapp-button-add-on)](https://vaadin.com/directory/component/whatsapp-button-add-on)
   [![npm version](https://img.shields.io/npm/v/%40flowingcode%2Ffc-whatsapp-button)](https://www.npmjs.com/package/@flowingcode/fc-whatsapp-button)
   </td>
- 
+  
 </tr>
 </table>
 
@@ -169,23 +180,16 @@
   
   <td width="33%">
 
-  [**Granite Alert**](https://github.com/FlowingCode/GraniteAlertAddon)  
-  Vaadin Flow wrapper Granite Alert with themable support.
-  
-  [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/granite-alert)](https://vaadin.com/directory/component/granite-alert)
-  </td>
- 
-</tr>
-
-<tr>
-  <td width="33%">
-
   [**GitHub Buttons**](https://github.com/FlowingCode/GitHubButtons)  
   Add-on that allows creation of three different types of GitHub Buttons to represent a given user/repository.
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/github-buttons-add-on)](https://vaadin.com/directory/component/github-buttons-add-on)
   [![npm version](https://img.shields.io/npm/v/%40flowingcode%2Fwc-ngx-github-buttons)](https://www.npmjs.com/package/@flowingcode/wc-ngx-github-buttons)
   </td>
+ 
+</tr>
+
+<tr>  
   
   <td width="33%">
 
@@ -202,10 +206,7 @@
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/rss-items)](https://vaadin.com/directory/component/rss-items)
   </td>
-  
-</tr>
 
-<tr>  
   <td width="33%">
 
   [**Vertical Menu**](https://github.com/FlowingCode/VerticalMenuAddon)  
@@ -213,7 +214,7 @@
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/vertical-menu-addon)](https://vaadin.com/directory/component/vertical-menu-addon)
   </td>
-
+  
 </tr>
 </table>
 
