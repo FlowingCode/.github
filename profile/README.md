@@ -164,6 +164,13 @@
 <tr>  
   <td width="33%">
 
+  [**Chat Assistant**](https://github.com/FlowingCode/ChatAssistant)  
+  Multiselect component that displays selected values as labels.
+  
+  [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/chat-assistant-add-on)](https://vaadin.com/directory/component/chat-assistant-add-on)
+  </td>
+  <td width="33%">
+
   [**Chip Field**](https://github.com/FlowingCode/ChipFieldAddon)  
   Multiselect component that displays selected values as labels.
   
@@ -177,7 +184,9 @@
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/filterable-layout-add-on)](https://vaadin.com/directory/component/filterable-layout-add-on)
   </td>
-  
+</tr>
+
+<tr>    
   <td width="33%">
 
   [**GitHub Buttons**](https://github.com/FlowingCode/GitHubButtons)  
@@ -186,9 +195,7 @@
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/github-buttons-add-on)](https://vaadin.com/directory/component/github-buttons-add-on)
   [![npm version](https://img.shields.io/npm/v/%40flowingcode%2Fwc-ngx-github-buttons)](https://www.npmjs.com/package/@flowingcode/wc-ngx-github-buttons)
   </td> 
-</tr>
-
-<tr>    
+  
   <td width="33%">
 
   [**Image Comparison Slider**](https://github.com/FlowingCode/ImageComparisonSliderAddon)  
@@ -204,7 +211,9 @@
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/rss-items)](https://vaadin.com/directory/component/rss-items)
   </td>
-  
+</tr>
+
+<tr>
   <td width="33%">
 
   [**Share Easy**](https://github.com/FlowingCode/ShareEasy)  
@@ -212,9 +221,7 @@
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/share-easy-add-on)](https://vaadin.com/directory/component/share-easy-add-on)
   </td>  
-</tr>
-
-<tr>
+  
   <td width="33%">
 
   [**Vertical Menu**](https://github.com/FlowingCode/VerticalMenuAddon)  
