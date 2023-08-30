@@ -185,12 +185,10 @@
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/github-buttons-add-on)](https://vaadin.com/directory/component/github-buttons-add-on)
   [![npm version](https://img.shields.io/npm/v/%40flowingcode%2Fwc-ngx-github-buttons)](https://www.npmjs.com/package/@flowingcode/wc-ngx-github-buttons)
-  </td>
- 
+  </td> 
 </tr>
 
-<tr>  
-  
+<tr>    
   <td width="33%">
 
   [**Image Comparison Slider**](https://github.com/FlowingCode/ImageComparisonSliderAddon)  
@@ -206,7 +204,17 @@
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/rss-items)](https://vaadin.com/directory/component/rss-items)
   </td>
+  
+  <td width="33%">
 
+  [**Share Easy**](https://github.com/FlowingCode/ShareEasy)  
+  Easy social media sharing component.
+  
+  [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/share-easy-add-on)](https://vaadin.com/directory/component/share-easy-add-on)
+  </td>  
+</tr>
+
+<tr>
   <td width="33%">
 
   [**Vertical Menu**](https://github.com/FlowingCode/VerticalMenuAddon)  
@@ -214,7 +222,6 @@
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/vertical-menu-addon)](https://vaadin.com/directory/component/vertical-menu-addon)
   </td>
-  
 </tr>
 </table>
 
