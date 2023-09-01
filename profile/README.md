@@ -189,6 +189,13 @@
 <tr>    
   <td width="33%">
 
+  [**Flip Card**](https://github.com/FlowingCode/FlipCard)  
+  Card component that can flip on hover or on click based on [Flip Card Web Component](https://www.npmjs.com/package/flip-card-wc).
+  
+  [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/flip-card-add-on)](https://vaadin.com/directory/component/flip-card-add-on)
+  </td> 
+  <td width="33%">
+
   [**GitHub Buttons**](https://github.com/FlowingCode/GitHubButtons)  
   Add-on that allows creation of three different types of GitHub Buttons to represent a given user/repository.
   
@@ -203,7 +210,9 @@
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/image-comparison-slider-add-on)](https://vaadin.com/directory/component/image-comparison-slider-add-on)
   </td>
-  
+</tr>
+
+<tr>
   <td width="33%">
 
   [**RSS Items**](https://github.com/FlowingCode/RssItemsAddon)  
@@ -211,9 +220,7 @@
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/rss-items)](https://vaadin.com/directory/component/rss-items)
   </td>
-</tr>
-
-<tr>
+  
   <td width="33%">
 
   [**Share Easy**](https://github.com/FlowingCode/ShareEasy)  
