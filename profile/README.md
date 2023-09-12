@@ -23,7 +23,7 @@
   [**Extended Login**](https://github.com/FlowingCode/ExtendedLoginAddon)  
   Extends the Vaadin Login component adding new features.
   
-  [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/extended-login-add-on)](https://vaadin.com/directory/component/extended-login-add-on)
+  [![Maven Central](https://img.shields.io/maven-central/v/org.vaadin.addons.flowingcode/extended-login)](https://mvnrepository.com/artifact/org.vaadin.addons.flowingcode/extended-login)
   </td>
   
    <td width="33%">
