@@ -292,7 +292,8 @@
 
   [**RPC for Vaadin TestBench**](https://github.com/FlowingCode/testbench-rpc)  
   Provides support for [calling Server-Side methods](https://vaadin.com/docs/latest/create-ui/element-api/client-server-rpc/#calling-server-side-methods-from-the-client) from [Vaadin TestBench](https://vaadin.com/docs/latest/testing/end-to-end) integration tests.
-  
+
+  [![Maven Central](https://img.shields.io/maven-central/v/com.flowingcode.vaadin.test/testbench-rpc)](https://mvnrepository.com/artifact/com.flowingcode.vaadin.test/testbench-rpc)
   </td>
 </tr>
 
