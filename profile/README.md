@@ -12,6 +12,14 @@
 <tr>
   <td width="33%">
 
+  [**Badge List**](https://github.com/FlowingCode/BadgeList)  
+  Responsive badge list component.
+  
+  [![Maven Central](https://img.shields.io/maven-central/v/com.flowingcode.vaadin.addons/badge-list-addon)](https://mvnrepository.com/artifact/com.flowingcode.vaadin.addons/badge-list-addon)
+  </td>
+
+  <td width="33%">
+
   [**Error Window**](https://github.com/FlowingCode/ErrorWindowAddon)  
   Error handler that displays a dialog with the catched exception information.
   
@@ -26,6 +34,9 @@
   [![Maven Central](https://img.shields.io/maven-central/v/org.vaadin.addons.flowingcode/extended-login)](https://mvnrepository.com/artifact/org.vaadin.addons.flowingcode/extended-login)
   </td>
   
+</tr>  
+
+<tr>
    <td width="33%">
 
   [**Font Awesome Iconset**](https://github.com/FlowingCode/FontAwesomeIronIconset)  
@@ -34,10 +45,7 @@
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/fontawesome-iron-iconset)](https://vaadin.com/directory/component/fontawesome-iron-iconset)
   [![npm version](https://img.shields.io/npm/v/%40flowingcode%2Ffont-awesome-iron-iconset)](https://www.npmjs.com/package/@flowingcode/font-awesome-iron-iconset)
   </td>
-  
-</tr>
 
-<tr>   
   <td width="33%">
 
   [**Google Maps**](https://github.com/FlowingCode/GoogleMapsAddon)  
@@ -55,6 +63,9 @@
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/grid-exporter-add-on)](https://vaadin.com/directory/component/grid-exporter-add-on)
   </td>
   
+</tr>
+
+<tr>     
   <td width="33%">
 
   [**Grid Helpers**](https://github.com/FlowingCode/GridHelpers)  
@@ -62,10 +73,7 @@
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/grid-helpers-add-on)](https://vaadin.com/directory/component/grid-helpers-add-on)
   </td>
- 
-</tr>
 
-<tr>
   <td width="33%">
 
   [**OrgChart**](https://github.com/FlowingCode/OrgChartAddon)  
@@ -81,7 +89,10 @@
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/twincolgrid-add-on)](https://vaadin.com/directory/component/twincolgrid-add-on)
   </td>
-  
+ 
+</tr>
+
+<tr>  
   <td width="33%">
 
   [**Year/Month Calendar**](https://github.com/FlowingCode/YearMonthCalendarAddon)  
