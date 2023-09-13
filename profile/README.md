@@ -280,6 +280,16 @@
 <tr>
   <td width="100%">
 
+  [**Commons Demo**](https://github.com/FlowingCode/CommonsDemo)  
+  Library that provides UI classes to display code examples and, optionally, their corresponding source code. Used in [Flowing Code Add-ons](https://addonsv24.flowingcode.com/) demos.
+  
+  [![Maven Central](https://img.shields.io/maven-central/v/com.flowingcode.vaadin.addons.demo/commons-demo)](https://mvnrepository.com/artifact/com.flowingcode.vaadin.addons.demo/commons-demo)
+  </td>
+</tr>
+
+<tr>
+  <td width="100%">
+
   [**RPC for Vaadin TestBench**](https://github.com/FlowingCode/testbench-rpc)  
   Provides support for [calling Server-Side methods](https://vaadin.com/docs/latest/create-ui/element-api/client-server-rpc/#calling-server-side-methods-from-the-client) from [Vaadin TestBench](https://vaadin.com/docs/latest/testing/end-to-end) integration tests.
   
