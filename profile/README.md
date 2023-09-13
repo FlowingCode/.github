@@ -238,6 +238,17 @@
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/vertical-menu-addon)](https://vaadin.com/directory/component/vertical-menu-addon)
   </td>
 </tr>
+
+<tr>
+  <td width="33%">
+
+  [**Zoomist**](https://github.com/FlowingCode/Zoomist)  
+  Wrapper component for [Zoomist JavaScript Library](https://npm.io/package/zoomist) that allows to apply zooming to images.
+  
+  [![Maven Central](https://img.shields.io/maven-central/v/com.flowingcode.vaadin.addons/zoomist-addon)](https://mvnrepository.com/artifact/com.flowingcode.vaadin.addons/zoomist-addon)
+  </td>
+  
+</tr>
 </table>
 
 <br>
