@@ -129,15 +129,7 @@
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/simple-timer-addon)](https://vaadin.com/directory/component/simple-timer-addon)
   </td>
-  
-  <td width="33%">
-
-  [**XTerm**](https://github.com/FlowingCode/XTermConsoleAddon)  
-  Vaadin Flow integration of [xterm.js](https://xtermjs.org/) terminal emulator.
-  
-  [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/xterm-console-addon)](https://vaadin.com/directory/component/xterm-console-addon)
-  </td>
-  
+    
   <td width="33%">
 
   [**WCStories**](https://github.com/FlowingCode/WCStoriesAddon)  
@@ -145,9 +137,7 @@
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/wc-stories-addon)](https://vaadin.com/directory/component/wc-stories-addon)
   </td> 
-</tr>
 
-<tr>
   <td width="33%">
 
   [**Whatsapp Button**](https://github.com/FlowingCode/WhatsappButton)  
@@ -155,6 +145,17 @@
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/whatsapp-button-add-on)](https://vaadin.com/directory/component/whatsapp-button-add-on)
   [![npm version](https://img.shields.io/npm/v/%40flowingcode%2Ffc-whatsapp-button)](https://www.npmjs.com/package/@flowingcode/fc-whatsapp-button)
+  </td>
+  
+</tr>
+
+<tr>
+  <td width="33%">
+
+  [**XTerm**](https://github.com/FlowingCode/XTermConsoleAddon)  
+  Vaadin Flow integration of [xterm.js](https://xtermjs.org/) terminal emulator.
+  
+  [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/xterm-console-addon)](https://vaadin.com/directory/component/xterm-console-addon)
   </td>
   
 </tr>
