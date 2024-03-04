@@ -20,12 +20,23 @@
 
   <td width="33%">
 
+  [**Enhanced Tabs**](https://github.com/FlowingCode/EnhancedTabs)  
+  Enhanced Tabs component for Vaadin Flow.
+  
+  [![Maven Central](https://img.shields.io/maven-central/v/com.flowingcode.vaadin.addons/enhanced-tabs-addon)](https://mvnrepository.com/artifact/com.flowingcode.vaadin.addons/enhanced-tabs-addon)
+  </td> 
+
+  <td width="33%">
+
   [**Error Window**](https://github.com/FlowingCode/ErrorWindowAddon)  
   Error handler that displays a dialog with the catched exception information.
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/error-window-add-on)](https://vaadin.com/directory/component/error-window-add-on)
-  </td>
+  </td> 
+  
+</tr>  
 
+<tr>
   <td width="33%">
 
   [**Extended Login**](https://github.com/FlowingCode/ExtendedLoginAddon)  
@@ -34,10 +45,7 @@
   [![Maven Central](https://img.shields.io/maven-central/v/org.vaadin.addons.flowingcode/extended-login)](https://mvnrepository.com/artifact/org.vaadin.addons.flowingcode/extended-login)
   </td>
   
-</tr>  
-
-<tr>
-   <td width="33%">
+  <td width="33%">
 
   [**Font Awesome Iconset**](https://github.com/FlowingCode/FontAwesomeIronIconset)  
   Iconset based in FontAwesome
@@ -55,6 +63,9 @@
   [![npm version](https://img.shields.io/npm/v/%40flowingcode%2Fgoogle-map)](https://www.npmjs.com/package/@flowingcode/google-map)  
   </td>
   
+</tr>
+
+<tr>     
   <td width="33%">
 
   [**Grid Exporter**](https://github.com/FlowingCode/GridExporterAddon)  
@@ -63,9 +74,6 @@
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/grid-exporter-add-on)](https://vaadin.com/directory/component/grid-exporter-add-on)
   </td>
   
-</tr>
-
-<tr>     
   <td width="33%">
 
   [**Grid Helpers**](https://github.com/FlowingCode/GridHelpers)  
@@ -80,19 +88,18 @@
   Add-on to render organizational charts based on [OrgChart](https://github.com/dabeng/OrgChart).
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/orgchart-add-on)](https://vaadin.com/directory/component/orgchart-add-on)
-  </td>
+  </td> 
   
-  <td width="33%">
+</tr>
+
+<tr>  
+   <td width="33%">
 
   [**TwinColGrid**](https://github.com/FlowingCode/TwinColGridAddon)  
   TwinCol component based on Vaadin Grid.
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/twincolgrid-add-on)](https://vaadin.com/directory/component/twincolgrid-add-on)
   </td>
- 
-</tr>
-
-<tr>  
   <td width="33%">
 
   [**Year/Month Calendar**](https://github.com/FlowingCode/YearMonthCalendarAddon)  
