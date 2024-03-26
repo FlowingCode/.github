@@ -20,12 +20,23 @@
 
   <td width="33%">
 
+  [**Day of Week Selector**](https://github.com/FlowingCode/DayOfWeekSelectorAddon)  
+  Component to display the days of the week so they can be selected.
+  
+  [![Maven Central Version](https://img.shields.io/maven-central/v/com.flowingcode.vaadin.addons/day-of-week-selector-addon)
+](https://mvnrepository.com/artifact/com.flowingcode.vaadin.addons/day-of-week-selector-addon)
+  </td> 
+
+  <td width="33%">
+
   [**Enhanced Tabs**](https://github.com/FlowingCode/EnhancedTabs)  
   Enhanced Tabs component for Vaadin Flow.
   
   [![Maven Central](https://img.shields.io/maven-central/v/com.flowingcode.vaadin.addons/enhanced-tabs-addon)](https://mvnrepository.com/artifact/com.flowingcode.vaadin.addons/enhanced-tabs-addon)
   </td> 
+</tr>  
 
+<tr>
   <td width="33%">
 
   [**Error Window**](https://github.com/FlowingCode/ErrorWindowAddon)  
@@ -33,10 +44,6 @@
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/error-window-add-on)](https://vaadin.com/directory/component/error-window-add-on)
   </td> 
-  
-</tr>  
-
-<tr>
   <td width="33%">
 
   [**Extended Login**](https://github.com/FlowingCode/ExtendedLoginAddon)  
@@ -53,7 +60,9 @@
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/fontawesome-iron-iconset)](https://vaadin.com/directory/component/fontawesome-iron-iconset)
   [![npm version](https://img.shields.io/npm/v/%40flowingcode%2Ffont-awesome-iron-iconset)](https://www.npmjs.com/package/@flowingcode/font-awesome-iron-iconset)
   </td>
+</tr>
 
+<tr>     
   <td width="33%">
 
   [**Google Maps**](https://github.com/FlowingCode/GoogleMapsAddon)  
@@ -62,10 +71,6 @@
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/google-maps-addon)](https://vaadin.com/directory/component/google-maps-addon)
   [![npm version](https://img.shields.io/npm/v/%40flowingcode%2Fgoogle-map)](https://www.npmjs.com/package/@flowingcode/google-map)  
   </td>
-  
-</tr>
-
-<tr>     
   <td width="33%">
 
   [**Grid Exporter**](https://github.com/FlowingCode/GridExporterAddon)  
@@ -81,19 +86,17 @@
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/grid-helpers-add-on)](https://vaadin.com/directory/component/grid-helpers-add-on)
   </td>
+</tr>
 
+<tr>  
   <td width="33%">
 
   [**OrgChart**](https://github.com/FlowingCode/OrgChartAddon)  
   Add-on to render organizational charts based on [OrgChart](https://github.com/dabeng/OrgChart).
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/orgchart-add-on)](https://vaadin.com/directory/component/orgchart-add-on)
-  </td> 
-  
-</tr>
-
-<tr>  
-   <td width="33%">
+  </td>   
+  <td width="33%">
 
   [**TwinColGrid**](https://github.com/FlowingCode/TwinColGridAddon)  
   TwinCol component based on Vaadin Grid.
