@@ -382,8 +382,8 @@
 ## Community
 <!--- Community badges from https://github.com/Ileriayo/markdown-badges -->
 
-[![Blog](https://img.shields.io/badge/Blog-%2312100E.svg?style=for-the-badge)](https://www.flowingcode.com/en/blog/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/flowingcode)
+[![Blog](https://img.shields.io/badge/Blog-740098?style=for-the-badge)](https://www.flowingcode.com/en/blog/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/flowingcode)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/24971175)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@flowingcode)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/flowingcode/)
