@@ -41,8 +41,9 @@
 
   [**Error Window**](https://github.com/FlowingCode/ErrorWindowAddon)  
   Error handler that displays a dialog with the catched exception information.
-  
-  [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/error-window-add-on)](https://vaadin.com/directory/component/error-window-add-on)
+ 
+  [![Maven Central](https://img.shields.io/maven-central/v/com.flowingcode.vaadin.addons/error-window-vaadin)](https://mvnrepository.com/artifact/com.flowingcode.vaadin.addons/error-window-vaadin)
+
   </td> 
   <td width="33%">
 
