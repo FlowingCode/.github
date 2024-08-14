@@ -92,6 +92,13 @@
 <tr>  
   <td width="33%">
 
+  [**Image Crop**](https://github.com/FlowingCode/ImageCrop)  
+  Component for cropping images. Wrapper for React component [react-image-crop](https://www.npmjs.com/package/react-image-crop).
+  
+  [![Maven Central](https://img.shields.io/maven-central/v/com.flowingcode.vaadin.addons/image-crop-addon)](https://mvnrepository.com/artifact/com.flowingcode.vaadin.addons/image-crop-addon)
+  </td>   
+  <td width="33%">
+
   [**OrgChart**](https://github.com/FlowingCode/OrgChartAddon)  
   Add-on to render organizational charts based on [OrgChart](https://github.com/dabeng/OrgChart).
   
@@ -103,16 +110,19 @@
   TwinCol component based on Vaadin Grid.
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/twincolgrid-add-on)](https://vaadin.com/directory/component/twincolgrid-add-on)
-  </td>
+  </td>  
+</tr>
+
+<tr>  
   <td width="33%">
 
-  [**Year/Month Calendar**](https://github.com/FlowingCode/YearMonthCalendarAddon)  
+   [**Year/Month Calendar**](https://github.com/FlowingCode/YearMonthCalendarAddon)  
   Full year/month calendar for Vaadin Flow.
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/year-month-calendar-add-on)](https://vaadin.com/directory/component/year-month-calendar-add-on)
-  </td>
   
-</tr>
+  </td>
+</tr>  
 
 <table width="100%"> <!--- LEVEL 2 -->
 <tr>
