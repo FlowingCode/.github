@@ -264,14 +264,23 @@
   
   <td width="33%">
 
+  [**Syntax Highlighter**](https://github.com/FlowingCode/SyntaxHighlighter)  
+  Wrapper around the [React Syntax Highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) component.
+  
+  [![Maven Central](https://img.shields.io/maven-central/v/com.flowingcode.vaadin.addons/syntax-highlighter-addon)](https://mvnrepository.com/artifact/com.flowingcode.vaadin.addons/syntax-highlighter-addon)
+  </td>   
+ 
+</tr>
+
+<tr>
+  <td width="33%">
+
   [**Vertical Menu**](https://github.com/FlowingCode/VerticalMenuAddon)  
   Colorful Vertical Menu component.
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/vertical-menu-addon)](https://vaadin.com/directory/component/vertical-menu-addon)
   </td>
-</tr>
-
-<tr>
+  
   <td width="33%">
 
   [**Zoomist**](https://github.com/FlowingCode/Zoomist)  
