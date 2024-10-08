@@ -235,11 +235,28 @@
 <tr>
   <td width="33%">
 
+  [**Lite Renderer**](https://github.com/FlowingCode/LiteRenderer)  
+  A Renderer for Vaadin Flow that uses a component instance as template, to use as an alternative to LitRenderer.
+  
+  [![Maven Central](https://img.shields.io/maven-central/v/com.flowingcode.vaadin.addons/lite-renderer-addon)](https://mvnrepository.com/artifact/com.flowingcode.vaadin.addons/lite-renderer-addon)
+  </td>
+  <td width="33%">
+
+  [**Locale ComboBox**](https://github.com/FlowingCode/LocaleComboBox)  
+  Vaadin ComboBox extension that allows to choose between multiple locales.
+  
+  [![Maven Central](https://img.shields.io/maven-central/v/com.flowingcode.vaadin.addons/locale-combo-box-addon)](https://mvnrepository.com/artifact/com.flowingcode.vaadin.addons/locale-combo-box-addon)
+  </td>   
+  <td width="33%">
+
   [**RSS Items**](https://github.com/FlowingCode/RssItemsAddon)  
   Add-on to display rss item from a rss stream as a clickable thumbnail with a description.
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/rss-items)](https://vaadin.com/directory/component/rss-items)
   </td>
+</tr>
+
+<tr> 
   <td width="33%">
 
   [**Syntax Highlighter**](https://github.com/FlowingCode/SyntaxHighlighter)  
@@ -254,9 +271,6 @@
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/vertical-menu-addon)](https://vaadin.com/directory/component/vertical-menu-addon)
   </td> 
-</tr>
-
-<tr>
   <td width="33%">
 
   [**WCStories**](https://github.com/FlowingCode/WCStoriesAddon)  
@@ -264,7 +278,9 @@
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/wc-stories-addon)](https://vaadin.com/directory/component/wc-stories-addon)
   </td> 
+</tr>
 
+<tr>
   <td width="33%">
 
   [**Whatsapp Button**](https://github.com/FlowingCode/WhatsappButton)  
