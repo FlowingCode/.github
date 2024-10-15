@@ -90,6 +90,14 @@
 <tr>   
   <td width="33%">
 
+  [**Markdown Editor**](https://github.com/FlowingCode/MarkdownEditor)  
+  Component to edit and visualize markdown content. Wrapper for React component [react-md-editor](https://github.com/uiwjs/react-md-editor).
+  
+  [![Maven Central](https://img.shields.io/maven-central/v/com.flowingcode.vaadin.addons/markdown-editor-addon)](https://mvnrepository.com/artifact/com.flowingcode.vaadin.addons/markdown-editor-addon)
+  </td>   
+  
+  <td width="33%">
+
   [**OrgChart**](https://github.com/FlowingCode/OrgChartAddon)  
   Add-on to render organizational charts based on [OrgChart](https://github.com/dabeng/OrgChart).
   
@@ -102,6 +110,9 @@
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/twincolgrid-add-on)](https://vaadin.com/directory/component/twincolgrid-add-on)
   </td>  
+</tr>
+
+<tr>   
   <td width="33%">
 
    [**Year/Month Calendar**](https://github.com/FlowingCode/YearMonthCalendarAddon)  
