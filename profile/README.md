@@ -67,16 +67,16 @@
 
   [**Grid Exporter**](https://github.com/FlowingCode/GridExporterAddon)  
   Add-on that allows to export Vaadin's grid data to formats like Excel, Docx, PDF and CSV.
-  
-  [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/grid-exporter-add-on)](https://vaadin.com/directory/component/grid-exporter-add-on)
+
+  [![Maven Central](https://img.shields.io/maven-central/v/org.vaadin.addons.flowingcode/grid-exporter-addon)](https://mvnrepository.com/artifact/org.vaadin.addons.flowingcode/grid-exporter-addon)
   </td>
   
   <td width="33%">
 
   [**Grid Helpers**](https://github.com/FlowingCode/GridHelpers)  
   A collection of recipes to improve the Vaadin Grid experience.
-  
-  [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/grid-helpers-add-on)](https://vaadin.com/directory/component/grid-helpers-add-on)
+
+  [![Maven Central](https://img.shields.io/maven-central/v/org.vaadin.addons.flowingcode/grid-helpers)](https://mvnrepository.com/artifact/org.vaadin.addons.flowingcode/grid-helpers)
   </td>
   <td width="33%">
 
