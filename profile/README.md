@@ -281,7 +281,17 @@
   Colorful Vertical Menu component.
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/vertical-menu-addon)](https://vaadin.com/directory/component/vertical-menu-addon)
-  </td> 
+  </td>   
+  <td width="33%">
+
+  [**Upload Helper**](https://github.com/FlowingCode/UploadHelper)  
+  Provides a Flow API for manipulating the [vaadin-upload-file](https://cdn.vaadin.com/vaadin-web-components/24.5.0/#/elements/vaadin-upload-file) element.
+  
+  [![Maven Central](https://img.shields.io/maven-central/v/com.flowingcode.vaadin.addons/upload-helper-addon)](https://mvnrepository.com/artifact/com.flowingcode.vaadin.addons/upload-helper-addon)
+  </td>   
+</tr>
+
+<tr>
   <td width="33%">
 
   [**WCStories**](https://github.com/FlowingCode/WCStoriesAddon)  
@@ -289,9 +299,6 @@
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/wc-stories-addon)](https://vaadin.com/directory/component/wc-stories-addon)
   </td> 
-</tr>
-
-<tr>
   <td width="33%">
 
   [**Whatsapp Button**](https://github.com/FlowingCode/WhatsappButton)  
