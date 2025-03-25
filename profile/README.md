@@ -107,8 +107,8 @@
 
   [**TwinColGrid**](https://github.com/FlowingCode/TwinColGridAddon)  
   TwinCol component based on Vaadin Grid.
-  
-  [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/twincolgrid-add-on)](https://vaadin.com/directory/component/twincolgrid-add-on)
+
+  [![Maven Central](https://img.shields.io/maven-central/v/com.flowingcode.vaadin.addons/twincolgrid)](https://mvnrepository.com/artifact/com.flowingcode.vaadin.addons/twincolgrid)
   </td>  
 </tr>
 
