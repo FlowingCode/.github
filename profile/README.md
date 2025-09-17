@@ -1,6 +1,5 @@
 <div align="center">
-
-![flowing-code-logo](https://github.com/FlowingCode/.github/assets/30666649/f1adf7fc-8cea-4f19-9193-010b267efcc1)
+<img width="1057" height="263" alt="GitHub - Header" src="https://github.com/user-attachments/assets/17546d3b-a692-48ea-9291-c2e656904dee" />
 
 #### [Website](https://www.flowingcode.com) · [Community](#community)
 
