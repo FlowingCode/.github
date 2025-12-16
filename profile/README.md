@@ -344,6 +344,16 @@
   </td>
 </tr>
 
+<tr>
+  <td width="100%">
+
+  [**Json Migration Helper**](https://github.com/FlowingCode/JsonMigrationHelper)  
+  Helper that provides a compatibility layer for JSON handling to abstract away breaking changes introduced in Vaadin version 25.
+  
+  [![Maven Central](https://img.shields.io/maven-central/v/com.flowingcode.vaadin/json-migration-helper)](https://mvnrepository.com/artifact/com.flowingcode.vaadin/json-migration-helper)
+  </td>
+</tr>
+
 </table>
 
 <br>
