@@ -276,11 +276,22 @@
   </td>   
   <td width="33%">
 
+  [**Toggle Button**](https://github.com/FlowingCode/ToggleButton)  
+  A toggle button component that supports customizable labels and icons on both sides of the toggle.
+  
+  [![Maven Central](https://img.shields.io/maven-central/v/com.flowingcode.vaadin.addons/toggle-button-addon)](https://mvnrepository.com/artifact/com.flowingcode.vaadin.addons/toggle-button-addon)
+  </td>   
+  <td width="33%">
+
   [**Upload Helper**](https://github.com/FlowingCode/UploadHelper)  
   Provides a Flow API for manipulating the [vaadin-upload-file](https://cdn.vaadin.com/vaadin-web-components/24.5.0/#/elements/vaadin-upload-file) element.
   
   [![Maven Central](https://img.shields.io/maven-central/v/com.flowingcode.vaadin.addons/upload-helper-addon)](https://mvnrepository.com/artifact/com.flowingcode.vaadin.addons/upload-helper-addon)
   </td>   
+  
+</tr>
+
+<tr>
   <td width="33%">
 
   [**Vertical Menu**](https://github.com/FlowingCode/VerticalMenuAddon)  
@@ -288,9 +299,7 @@
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/vertical-menu-addon)](https://vaadin.com/directory/component/vertical-menu-addon)
   </td>   
-</tr>
-
-<tr>
+  
   <td width="33%">
 
   [**WCStories**](https://github.com/FlowingCode/WCStoriesAddon)  
