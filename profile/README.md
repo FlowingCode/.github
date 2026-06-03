@@ -102,14 +102,21 @@
   </td>   
   <td width="33%">
 
+  [**Locale ComboBox**](https://github.com/FlowingCode/LocaleComboBox)  
+  Vaadin ComboBox extension that allows to choose between multiple locales.
+  
+  [![Maven Central](https://img.shields.io/maven-central/v/com.flowingcode.vaadin.addons/locale-combo-box-addon)](https://mvnrepository.com/artifact/com.flowingcode.vaadin.addons/locale-combo-box-addon)
+  </td>   
+</tr>
+
+<tr>   
+  <td width="33%">
+
   [**Markdown Editor**](https://github.com/FlowingCode/MarkdownEditor)  
   Component to edit and visualize markdown content. Wrapper for React component [react-md-editor](https://github.com/uiwjs/react-md-editor).
   
   [![Maven Central](https://img.shields.io/maven-central/v/com.flowingcode.vaadin.addons/markdown-editor-addon)](https://mvnrepository.com/artifact/com.flowingcode.vaadin.addons/markdown-editor-addon)
   </td>  
-</tr>
-
-<tr>   
   <td width="33%">
 
   [**TwinColGrid**](https://github.com/FlowingCode/TwinColGridAddon)  
@@ -120,7 +127,7 @@
   
   <td width="33%">
 
-   [**Year/Month Calendar**](https://github.com/FlowingCode/YearMonthCalendarAddon)  
+  [**Year/Month Calendar**](https://github.com/FlowingCode/YearMonthCalendarAddon)  
   Full year/month calendar for Vaadin Flow.
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/year-month-calendar-add-on)](https://vaadin.com/directory/component/year-month-calendar-add-on)
@@ -242,14 +249,7 @@
   </td>
 </tr>
 
-<tr>  
-  <td width="33%">
-
-  [**Locale ComboBox**](https://github.com/FlowingCode/LocaleComboBox)  
-  Vaadin ComboBox extension that allows to choose between multiple locales.
-  
-  [![Maven Central](https://img.shields.io/maven-central/v/com.flowingcode.vaadin.addons/locale-combo-box-addon)](https://mvnrepository.com/artifact/com.flowingcode.vaadin.addons/locale-combo-box-addon)
-  </td>   
+<tr>    
   <td width="33%">
 
   [**RSS Items**](https://github.com/FlowingCode/RssItemsAddon)  
@@ -263,10 +263,7 @@
   Easy social media sharing component.
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/share-easy-add-on)](https://vaadin.com/directory/component/share-easy-add-on)
-  </td>    
-</tr>
-
-<tr> 
+  </td> 
   <td width="33%">
 
   [**Syntax Highlighter**](https://github.com/FlowingCode/SyntaxHighlighter)  
@@ -274,6 +271,9 @@
   
   [![Maven Central](https://img.shields.io/maven-central/v/com.flowingcode.vaadin.addons/syntax-highlighter-addon)](https://mvnrepository.com/artifact/com.flowingcode.vaadin.addons/syntax-highlighter-addon)
   </td>   
+</tr>
+
+<tr>   
   <td width="33%">
 
   [**Toggle Button**](https://github.com/FlowingCode/ToggleButton)  
@@ -288,10 +288,6 @@
   
   [![Maven Central](https://img.shields.io/maven-central/v/com.flowingcode.vaadin.addons/upload-helper-addon)](https://mvnrepository.com/artifact/com.flowingcode.vaadin.addons/upload-helper-addon)
   </td>   
-  
-</tr>
-
-<tr>
   <td width="33%">
 
   [**Vertical Menu**](https://github.com/FlowingCode/VerticalMenuAddon)  
@@ -300,6 +296,9 @@
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/vertical-menu-addon)](https://vaadin.com/directory/component/vertical-menu-addon)
   </td>   
   
+</tr>
+
+<tr>
   <td width="33%">
 
   [**WCStories**](https://github.com/FlowingCode/WCStoriesAddon)  
