@@ -29,8 +29,8 @@
 
   [**Chat Assistant**](https://github.com/FlowingCode/ChatAssistant)  
   Multiselect component that displays selected values as labels.
-  
-  [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/chat-assistant-add-on)](https://vaadin.com/directory/component/chat-assistant-add-on)
+
+  [![Maven Central](https://img.shields.io/maven-central/v/org.vaadin.addons.flowingcode/chat-assistant-addon)](https://mvnrepository.com/artifact/org.vaadin.addons.flowingcode/chat-assistant-addon)
   </td>
 </tr>  
 
@@ -63,9 +63,8 @@
 
   [**Font Awesome Iconset**](https://github.com/FlowingCode/FontAwesomeIronIconset)  
   Iconset based in FontAwesome
-  
-  [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/fontawesome-iron-iconset)](https://vaadin.com/directory/component/fontawesome-iron-iconset)
-  [![npm version](https://img.shields.io/npm/v/%40flowingcode%2Ffont-awesome-iron-iconset)](https://www.npmjs.com/package/@flowingcode/font-awesome-iron-iconset)
+
+  [![Maven Central](https://img.shields.io/maven-central/v/com.flowingcode.addons/font-awesome-iron-iconset)](https://mvnrepository.com/artifact/com.flowingcode.addons/font-awesome-iron-iconset)
   </td>
   <td width="33%">
 
@@ -129,9 +128,8 @@
 
   [**Year/Month Calendar**](https://github.com/FlowingCode/YearMonthCalendarAddon)  
   Full year/month calendar for Vaadin Flow.
-  
-  [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/year-month-calendar-add-on)](https://vaadin.com/directory/component/year-month-calendar-add-on)
-  
+
+  [![Maven Central](https://img.shields.io/maven-central/v/org.vaadin.addons.flowingcode/year-month-calendar)](https://mvnrepository.com/artifact/org.vaadin.addons.flowingcode/year-month-calendar)
   </td>
 </tr>
 
