@@ -250,6 +250,13 @@
 <tr>    
   <td width="33%">
 
+  [**Relative Time**](https://github.com/FlowingCode/RelativeTime)  
+  Component for rendering dates as auto-updating, locale-aware relative time strings based on [Relative Time Element](https://github.com/github/relative-time-element).
+  
+  [![Maven Central](https://img.shields.io/maven-central/v/com.flowingcode.vaadin.addons/relative-time-addon)](https://mvnrepository.com/artifact/com.flowingcode.vaadin.addons/relative-time-addon)
+  </td>   
+  <td width="33%">
+
   [**RSS Items**](https://github.com/FlowingCode/RssItemsAddon)  
   Add-on to display rss item from a rss stream as a clickable thumbnail with a description.
   
@@ -261,7 +268,10 @@
   Easy social media sharing component.
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/share-easy-add-on)](https://vaadin.com/directory/component/share-easy-add-on)
-  </td> 
+  </td>  
+</tr>
+
+<tr>   
   <td width="33%">
 
   [**Syntax Highlighter**](https://github.com/FlowingCode/SyntaxHighlighter)  
@@ -269,9 +279,6 @@
   
   [![Maven Central](https://img.shields.io/maven-central/v/com.flowingcode.vaadin.addons/syntax-highlighter-addon)](https://mvnrepository.com/artifact/com.flowingcode.vaadin.addons/syntax-highlighter-addon)
   </td>   
-</tr>
-
-<tr>   
   <td width="33%">
 
   [**Toggle Button**](https://github.com/FlowingCode/ToggleButton)  
@@ -286,6 +293,9 @@
   
   [![Maven Central](https://img.shields.io/maven-central/v/com.flowingcode.vaadin.addons/upload-helper-addon)](https://mvnrepository.com/artifact/com.flowingcode.vaadin.addons/upload-helper-addon)
   </td>   
+</tr>
+
+<tr>
   <td width="33%">
 
   [**Vertical Menu**](https://github.com/FlowingCode/VerticalMenuAddon)  
@@ -293,10 +303,6 @@
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/vertical-menu-addon)](https://vaadin.com/directory/component/vertical-menu-addon)
   </td>   
-  
-</tr>
-
-<tr>
   <td width="33%">
 
   [**WCStories**](https://github.com/FlowingCode/WCStoriesAddon)  
