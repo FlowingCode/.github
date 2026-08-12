@@ -327,6 +327,7 @@
   [**Backend Core**](https://github.com/FlowingCode/backend-core)  
   Collection of common interfaces and implementations designed to facilitate the application of clean architectural principles in enterprise software development. 
 
+  [![Maven Central](https://img.shields.io/maven-central/v/com.flowingcode.backend-core/backend-core)](https://mvnrepository.com/artifact/com.flowingcode.backend-core/backend-core)
   </td>
 </tr>
 
