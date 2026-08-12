@@ -419,10 +419,31 @@
   
   <td width="33%">
 
-  [**World Cup Stats**](https://github.com/FlowingCode/WorldcupStats)  
+  [**World Cup Stats**](https://github.com/FlowingCode/WorldcupStats/tree/vaadin10-2018)  
   Demo application that displays statistical data from the Football World Cup 2018 using Vaadin Flow & Spring Framework.
   
   [![Static Badge](https://img.shields.io/badge/BLOG_POST-740098?color=%23740098)](https://www.flowingcode.com/2018/07/vaadin-10-spring-demo-application-world.html)
+
+  </td>
+  
+</tr>
+
+<tr>
+  <td width="33%">
+
+  [**Vaadin 10 to 25 Migration**](https://github.com/FlowingCode/WorldcupStats)  
+  How an 8-year-old Vaadin 10 application was migrated to Vaadin 25, Java 21 and Spring Boot 4 using Claude AI and the Vaadin MCP server.
+  
+  [![Static Badge](https://img.shields.io/badge/BLOG_POST-740098?color=%23740098)](https://www.flowingcode.com/en/vaadin-10-to-25-migrating-a-8-year-old-app-with-claude-ai/)
+
+  </td>
+
+  <td width="33%">
+
+  [**Building Relative Time Add-on**](https://github.com/FlowingCode/RelativeTime)  
+  Walkthrough of the Spec → Plan → Code workflow used to build the [Relative Time](https://github.com/FlowingCode/RelativeTime) add-on, with Claude AI as a pair programmer.
+  
+  [![Static Badge](https://img.shields.io/badge/BLOG_POST-740098?color=%23740098)](https://www.flowingcode.com/en/building-a-vaadin-add-on-in-record-time-with-claude-ai/)
 
   </td>
   
