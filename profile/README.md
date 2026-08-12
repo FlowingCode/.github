@@ -11,12 +11,19 @@
 <tr>
   <td width="33%">
 
+  [**AppLayout**](https://github.com/FlowingCode/AppLayoutAddon)  
+  Vaadin Flow Java integration of Polymer's AppLayout.
+  
+  [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/app-layout-addon)](https://vaadin.com/directory/component/app-layout-addon)
+  [![npm version](https://img.shields.io/npm/v/%40flowingcode%2Ffc-applayout)](https://www.npmjs.com/package/@flowingcode/fc-applayout)
+  </td>
+  <td width="33%">
+
   [**Badge List**](https://github.com/FlowingCode/BadgeList)  
   Responsive badge list component.
   
   [![Maven Central](https://img.shields.io/maven-central/v/com.flowingcode.vaadin.addons/badge-list-addon)](https://mvnrepository.com/artifact/com.flowingcode.vaadin.addons/badge-list-addon)
   </td>
-
   <td width="33%">
 
   [**Carousel**](https://github.com/FlowingCode/CarouselAddon)  
@@ -24,7 +31,9 @@
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/carousel-addon)](https://vaadin.com/directory/component/carousel-addon)
   </td>
+</tr>
 
+<tr>
   <td width="33%">
 
   [**Chat Assistant**](https://github.com/FlowingCode/ChatAssistant)  
@@ -32,23 +41,23 @@
 
   [![Maven Central](https://img.shields.io/maven-central/v/org.vaadin.addons.flowingcode/chat-assistant-addon)](https://mvnrepository.com/artifact/org.vaadin.addons.flowingcode/chat-assistant-addon)
   </td>
-</tr>  
-
-<tr>
   <td width="33%">
 
   [**Day of Week Selector**](https://github.com/FlowingCode/DayOfWeekSelectorAddon)  
   Component to display the days of the week so they can be selected.
   
   [![Maven Central Version](https://img.shields.io/maven-central/v/com.flowingcode.vaadin.addons/day-of-week-selector-addon)](https://mvnrepository.com/artifact/com.flowingcode.vaadin.addons/day-of-week-selector-addon)
-  </td> 
+  </td>
   <td width="33%">
 
   [**Error Window**](https://github.com/FlowingCode/ErrorWindowAddon)  
   Error handler that displays a dialog with the catched exception information.
  
   [![Maven Central](https://img.shields.io/maven-central/v/com.flowingcode.vaadin.addons/error-window-vaadin)](https://mvnrepository.com/artifact/com.flowingcode.vaadin.addons/error-window-vaadin)
-  </td>   
+  </td>
+</tr>
+
+<tr>
   <td width="33%">
 
   [**Extended Login**](https://github.com/FlowingCode/ExtendedLoginAddon)  
@@ -56,9 +65,6 @@
   
   [![Maven Central](https://img.shields.io/maven-central/v/org.vaadin.addons.flowingcode/extended-login)](https://mvnrepository.com/artifact/org.vaadin.addons.flowingcode/extended-login)
   </td>
-</tr>
-
-<tr>   
   <td width="33%">
 
   [**Font Awesome Iconset**](https://github.com/FlowingCode/FontAwesomeIronIconset)  
@@ -74,7 +80,16 @@
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/google-maps-addon)](https://vaadin.com/directory/component/google-maps-addon)
   [![npm version](https://img.shields.io/npm/v/%40flowingcode%2Fgoogle-map)](https://www.npmjs.com/package/@flowingcode/google-map)  
   </td>
+</tr>
+
+<tr>
+  <td width="33%">
+
+  [**Granite Alert**](https://github.com/FlowingCode/GraniteAlertAddon)  
+  Vaadin Flow wrapper Granite Alert with themable support.
   
+  [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/granite-alert)](https://vaadin.com/directory/component/granite-alert)
+  </td>
   <td width="33%">
 
   [**Grid Exporter**](https://github.com/FlowingCode/GridExporterAddon)  
@@ -82,9 +97,6 @@
 
   [![Maven Central](https://img.shields.io/maven-central/v/org.vaadin.addons.flowingcode/grid-exporter-addon)](https://mvnrepository.com/artifact/org.vaadin.addons.flowingcode/grid-exporter-addon)
   </td>
-</tr>
-
-<tr>   
   <td width="33%">
 
   [**Grid Helpers**](https://github.com/FlowingCode/GridHelpers)  
@@ -92,38 +104,40 @@
 
   [![Maven Central](https://img.shields.io/maven-central/v/org.vaadin.addons.flowingcode/grid-helpers)](https://mvnrepository.com/artifact/org.vaadin.addons.flowingcode/grid-helpers)
   </td>
+</tr>
+
+<tr>
   <td width="33%">
 
   [**Image Crop**](https://github.com/FlowingCode/ImageCrop)  
   Component for cropping images. Wrapper for React component [react-image-crop](https://www.npmjs.com/package/react-image-crop).
   
   [![Maven Central](https://img.shields.io/maven-central/v/com.flowingcode.vaadin.addons/image-crop-addon)](https://mvnrepository.com/artifact/com.flowingcode.vaadin.addons/image-crop-addon)
-  </td>   
+  </td>
   <td width="33%">
 
   [**Locale ComboBox**](https://github.com/FlowingCode/LocaleComboBox)  
   Vaadin ComboBox extension that allows to choose between multiple locales.
   
   [![Maven Central](https://img.shields.io/maven-central/v/com.flowingcode.vaadin.addons/locale-combo-box-addon)](https://mvnrepository.com/artifact/com.flowingcode.vaadin.addons/locale-combo-box-addon)
-  </td>   
-</tr>
-
-<tr>   
+  </td>
   <td width="33%">
 
   [**Markdown Editor**](https://github.com/FlowingCode/MarkdownEditor)  
   Component to edit and visualize markdown content. Wrapper for React component [react-md-editor](https://github.com/uiwjs/react-md-editor).
   
   [![Maven Central](https://img.shields.io/maven-central/v/com.flowingcode.vaadin.addons/markdown-editor-addon)](https://mvnrepository.com/artifact/com.flowingcode.vaadin.addons/markdown-editor-addon)
-  </td>  
+  </td>
+</tr>
+
+<tr>
   <td width="33%">
 
   [**TwinColGrid**](https://github.com/FlowingCode/TwinColGridAddon)  
   TwinCol component based on Vaadin Grid.
 
   [![Maven Central](https://img.shields.io/maven-central/v/com.flowingcode.vaadin.addons/twincolgrid)](https://mvnrepository.com/artifact/com.flowingcode.vaadin.addons/twincolgrid)
-  </td>  
-  
+  </td>
   <td width="33%">
 
   [**Year/Month Calendar**](https://github.com/FlowingCode/YearMonthCalendarAddon)  
@@ -132,18 +146,10 @@
   [![Maven Central](https://img.shields.io/maven-central/v/org.vaadin.addons.flowingcode/year-month-calendar)](https://mvnrepository.com/artifact/org.vaadin.addons.flowingcode/year-month-calendar)
   </td>
 </tr>
+</table>
 
 <table width="100%"> <!--- LEVEL 2 -->
 <tr>
-  <td width="33%">
-
-  [**AppLayout**](https://github.com/FlowingCode/AppLayoutAddon)  
-  Vaadin Flow Java integration of Polymer's AppLayout.
-  
-  [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/app-layout-addon)](https://vaadin.com/directory/component/app-layout-addon)
-  [![npm version](https://img.shields.io/npm/v/%40flowingcode%2Ffc-applayout)](https://www.npmjs.com/package/@flowingcode/fc-applayout)
-  </td>
-  
   <td width="33%">
 
   [**Chip Field**](https://github.com/FlowingCode/ChipFieldAddon)  
@@ -151,54 +157,49 @@
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/chipfield-addon)](https://vaadin.com/directory/component/chipfield-addon)
   </td>
-  
   <td width="33%">
 
   [**Enhanced Tabs**](https://github.com/FlowingCode/EnhancedTabs)  
   Enhanced Tabs component for Vaadin Flow.
   
   [![Maven Central](https://img.shields.io/maven-central/v/com.flowingcode.vaadin.addons/enhanced-tabs-addon)](https://mvnrepository.com/artifact/com.flowingcode.vaadin.addons/enhanced-tabs-addon)
-  </td> 
-</tr>
-
-<tr>  
+  </td>
   <td width="33%">
 
   [**OrgChart**](https://github.com/FlowingCode/OrgChartAddon)  
   Add-on to render organizational charts based on [OrgChart](https://github.com/dabeng/OrgChart).
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/orgchart-add-on)](https://vaadin.com/directory/component/orgchart-add-on)
-  </td>   
- 
+  </td>
+</tr>
+
+<tr>
   <td width="33%">
 
   [**Simple Timer**](https://github.com/FlowingCode/SimpleTimerAddon)  
   Simple Timer for Vaadin Flow based on [Simple Timer Web Component](https://github.com/annsonn/simple-timer).
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/simple-timer-addon)](https://vaadin.com/directory/component/simple-timer-addon)
-  </td>  
+  </td>
   <td width="33%">
 
   [**XTerm**](https://github.com/FlowingCode/XTermConsoleAddon)  
   Vaadin Flow integration of [xterm.js](https://xtermjs.org/) terminal emulator.
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/xterm-console-addon)](https://vaadin.com/directory/component/xterm-console-addon)
-  </td>  
-</tr>
-
-<tr>    
+  </td>
   <td width="33%">
 
   [**Zoomist**](https://github.com/FlowingCode/Zoomist)  
   Wrapper component for [Zoomist JavaScript Library](https://npm.io/package/zoomist) that allows to apply zooming to images.
   
   [![Maven Central](https://img.shields.io/maven-central/v/com.flowingcode.vaadin.addons/zoomist-addon)](https://mvnrepository.com/artifact/com.flowingcode.vaadin.addons/zoomist-addon)
-  </td>  
+  </td>
 </tr>
 </table>
 
 <table width="100%"> <!--- LEVEL 3 -->
-<tr>  
+<tr>
   <td width="33%">
 
   [**Filterable Layout**](https://github.com/FlowingCode/FilterableLayoutAddon)  
@@ -212,25 +213,18 @@
   Card component that can flip on hover or on click based on [Flip Card Web Component](https://www.npmjs.com/package/flip-card-wc).
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/flip-card-add-on)](https://vaadin.com/directory/component/flip-card-add-on)
-  </td> 
-   <td width="33%">
+  </td>
+  <td width="33%">
 
   [**GitHub Buttons**](https://github.com/FlowingCode/GitHubButtons)  
   Add-on that allows creation of three different types of GitHub Buttons to represent a given user/repository.
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/github-buttons-add-on)](https://vaadin.com/directory/component/github-buttons-add-on)
   [![npm version](https://img.shields.io/npm/v/%40flowingcode%2Fwc-ngx-github-buttons)](https://www.npmjs.com/package/@flowingcode/wc-ngx-github-buttons)
-  </td> 
+  </td>
 </tr>
 
-<tr>      
-  <td width="33%">
-
-  [**Granite Alert**](https://github.com/FlowingCode/GraniteAlertAddon)  
-  Vaadin Flow wrapper Granite Alert with themable support.
-  
-  [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/granite-alert)](https://vaadin.com/directory/component/granite-alert)
-  </td>  
+<tr>
   <td width="33%">
 
   [**Image Comparison Slider**](https://github.com/FlowingCode/ImageComparisonSliderAddon)  
@@ -245,16 +239,16 @@
   
   [![Maven Central](https://img.shields.io/maven-central/v/com.flowingcode.vaadin.addons/lite-renderer-addon)](https://mvnrepository.com/artifact/com.flowingcode.vaadin.addons/lite-renderer-addon)
   </td>
-</tr>
-
-<tr>    
   <td width="33%">
 
   [**Relative Time**](https://github.com/FlowingCode/RelativeTime)  
   Component for rendering dates as auto-updating, locale-aware relative time strings based on [Relative Time Element](https://github.com/github/relative-time-element).
   
   [![Maven Central](https://img.shields.io/maven-central/v/com.flowingcode.vaadin.addons/relative-time-addon)](https://mvnrepository.com/artifact/com.flowingcode.vaadin.addons/relative-time-addon)
-  </td>   
+  </td>
+</tr>
+
+<tr>
   <td width="33%">
 
   [**RSS Items**](https://github.com/FlowingCode/RssItemsAddon)  
@@ -262,54 +256,54 @@
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/rss-items)](https://vaadin.com/directory/component/rss-items)
   </td>
-   <td width="33%">
+  <td width="33%">
 
   [**Share Easy**](https://github.com/FlowingCode/ShareEasy)  
   Easy social media sharing component.
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/share-easy-add-on)](https://vaadin.com/directory/component/share-easy-add-on)
-  </td>  
-</tr>
-
-<tr>   
+  </td>
   <td width="33%">
 
   [**Syntax Highlighter**](https://github.com/FlowingCode/SyntaxHighlighter)  
   Wrapper around the [React Syntax Highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) component.
   
   [![Maven Central](https://img.shields.io/maven-central/v/com.flowingcode.vaadin.addons/syntax-highlighter-addon)](https://mvnrepository.com/artifact/com.flowingcode.vaadin.addons/syntax-highlighter-addon)
-  </td>   
+  </td>
+</tr>
+
+<tr>
   <td width="33%">
 
   [**Toggle Button**](https://github.com/FlowingCode/ToggleButton)  
   A toggle button component that supports customizable labels and icons on both sides of the toggle.
   
   [![Maven Central](https://img.shields.io/maven-central/v/com.flowingcode.vaadin.addons/toggle-button-addon)](https://mvnrepository.com/artifact/com.flowingcode.vaadin.addons/toggle-button-addon)
-  </td>   
+  </td>
   <td width="33%">
 
   [**Upload Helper**](https://github.com/FlowingCode/UploadHelper)  
   Provides a Flow API for manipulating the [vaadin-upload-file](https://cdn.vaadin.com/vaadin-web-components/24.5.0/#/elements/vaadin-upload-file) element.
   
   [![Maven Central](https://img.shields.io/maven-central/v/com.flowingcode.vaadin.addons/upload-helper-addon)](https://mvnrepository.com/artifact/com.flowingcode.vaadin.addons/upload-helper-addon)
-  </td>   
-</tr>
-
-<tr>
+  </td>
   <td width="33%">
 
   [**Vertical Menu**](https://github.com/FlowingCode/VerticalMenuAddon)  
   Colorful Vertical Menu component.
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/vertical-menu-addon)](https://vaadin.com/directory/component/vertical-menu-addon)
-  </td>   
+  </td>
+</tr>
+
+<tr>
   <td width="33%">
 
   [**WCStories**](https://github.com/FlowingCode/WCStoriesAddon)  
   Vaadin Flow integration of [wc-stories](@gugadev/wc-stories) library.
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/wc-stories-addon)](https://vaadin.com/directory/component/wc-stories-addon)
-  </td> 
+  </td>
   <td width="33%">
 
   [**Whatsapp Button**](https://github.com/FlowingCode/WhatsappButton)  
@@ -317,7 +311,7 @@
   
   [![Vaadin Directory](https://img.shields.io/vaadin-directory/v/whatsapp-button-add-on)](https://vaadin.com/directory/component/whatsapp-button-add-on)
   [![npm version](https://img.shields.io/npm/v/%40flowingcode%2Ffc-whatsapp-button)](https://www.npmjs.com/package/@flowingcode/fc-whatsapp-button)
-  </td>  
+  </td>
 </tr>
 </table>
 
